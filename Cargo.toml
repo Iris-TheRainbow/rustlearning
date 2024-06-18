@@ -1,0 +1,9 @@
+[package]
+name = "rustlearning"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glib = "0.19.7"
+gtk = "0.18.1"
+serialport = "4.3.0"
